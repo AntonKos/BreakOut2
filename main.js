@@ -56,11 +56,11 @@ function updateMousePos(evt) {
     paddleX = mouseX - PADDLE_WIDTH / 2
 
 
-    arrayOfBalls[0].x = mouseX
-    arrayOfBalls[0].y = mouseY
-    arrayOfBalls[0].xSpeed = 8
-    arrayOfBalls[0].ySpeed = -8
-        //what is happening???
+    // arrayOfBalls[0].x = mouseX
+    // arrayOfBalls[0].y = mouseY
+    // arrayOfBalls[0].xSpeed = 8
+    // arrayOfBalls[0].ySpeed = -8
+    //what is happening???
 
 }
 
