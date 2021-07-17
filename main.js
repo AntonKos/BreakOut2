@@ -60,7 +60,7 @@ function updateMousePos(evt) {
     arrayOfBalls[0].y = mouseY
     arrayOfBalls[0].xSpeed = 8
     arrayOfBalls[0].ySpeed = -8
-
+        //what is happening???
 
 }
 
